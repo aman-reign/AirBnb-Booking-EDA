@@ -1,6 +1,5 @@
 
 # Airbnb Bookings Analysis
-![_Blue   Navy Modern Business Facebook Cover](https://github.com/user-attachments/assets/11ad84f6-2bd5-439c-97f8-f69d86c07eef)
 
 # Project Type
 **Exploratory Data Analysis**
